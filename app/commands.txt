@@ -1,0 +1,5 @@
+SET item:3374 100
+INCR item:3374
+APPEND item:3374 xxx
+GET item:3374
+
